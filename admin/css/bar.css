@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+ 
+  .error{color:red;}
+ .ph
+  {
+	  background:#069;
+	  font-family:Georgia, "Times New Roman", Times, serif;
+	  font-size:18px;
+	  font-weight:bold;
+	  padding:10px;
+	  text-align:center;
+	  height:auto;
+	  color:#FFF;
+	  margin:0 0 0 0;
+	  
+  }
+  
+  
+  .ph2
+  {
+	  background:#069;
+	  font-family:Georgia, "Times New Roman", Times, serif;
+	  font-size:9px;
+	  text-align:left;
+	  height:auto;
+	  margin:0 0 0 0;
+	  
+  }

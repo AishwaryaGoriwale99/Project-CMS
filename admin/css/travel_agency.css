@@ -1,0 +1,67 @@
+/* CSS Document */
+
+P
+{
+	color:#CCC;
+	background:#0C0;
+}
+.specail
+{ width:100px;
+}
+td,th
+{
+	text-align:center;
+	width:10px;
+	
+}
+tr
+{
+	 width:500px;
+	 
+	 
+	 
+}
+table
+{ font-size:11px;
+padding:10px;
+border:#09C solid 10px;
+
+
+ 
+}
+ td{
+	font-size:12px;
+	font-weight:bold;
+	color: #030;
+	border:#30F dashed 2px;
+	
+	padding:5px;
+	
+}
+td td{
+	font-size:12px;
+	font-weight:bold;
+	color: #030;
+	border:#30F solid 2px;
+	vertical-align:top;
+	
+	
+	padding:5px;
+	
+}
+table tr td a{
+	font-size:12px;
+	font-weight:bold;
+	color: #900;
+	
+	padding:5px;
+	
+}
+table tr td a:hover{
+	font-size:14px;
+	font-weight:bold;
+	color: #C30;
+	background:#033;
+	padding:5px;
+	
+}
