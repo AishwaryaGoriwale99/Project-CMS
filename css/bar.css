@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+ 
+  .error{color:red;}
+  .pheading
+  {
+	  background:#036;
+	  text-align:center;
+	  color:#FFF;
+	  margin:10px 0px 0px 0px;
+	  font-size:12px;
+	  height:40px;
+	 
+	  
+	  
+	  
+  }
+  .pheading2
+  {
+	  background:#036;
+	  color:#FFF;
+	  font-size:12px;
+	  height:20px;
+	  margin:0px 0px;
+	  	  
+  }
+  
